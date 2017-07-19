@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+/*
+ *created by Arya HajiTaheri
+ */
 #define EPSILON 0.000001
 #define MAXT7_1 10
 #define MAXT7_2 25
